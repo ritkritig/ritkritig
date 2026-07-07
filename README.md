@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ritkriti Goyal</h1>
+<h1 align="center">Hi! I'm Ritkriti Goyal</h1>
 
-<h3 align="center">Full Stack Developer | AI Enthusiast | B.Tech CSE Student @ UPES</h3>
+<h3 align="center">Aspiring Full Stack Developer | AI Enthusiast | B.Tech CSE Student @ UPES</h3>
 
 <p align="center">
 Passionate about building modern web applications and solving real-world problems through technology.
@@ -16,6 +16,7 @@ Currently exploring the MERN Stack, Artificial Intelligence, and Data Structures
 - 🌱 Currently learning **MERN Stack**, **DSA**, and **System Design**
 - 🚀 I enjoy building practical applications that create meaningful user experiences
 - 🤝 Always open to learning, collaborating, and contributing to exciting projects
+- 💯 Currently completing a **100 Days of DSA in Java** challenge with daily GitHub commits.
 
 ---
 
@@ -46,7 +47,9 @@ Currently exploring the MERN Stack, Artificial Intelligence, and Data Structures
 ## 🚀 Featured Projects
 
 ### 🧠 BrainSpace
-An AI-powered productivity workspace built using the MERN Stack.
+An AI-powered productivity workspace featuring secure authentication, rich text note-taking, folder organization, and AI-driven note summarization.
+
+🔗 **Repository:** https://github.com/ritkritig/BrainSpace
 
 **Key Features**
 - Secure JWT Authentication
@@ -64,10 +67,19 @@ An AI-powered productivity workspace built using the MERN Stack.
 - Google Gemini API
 
 ---
+### 💯 100 Days of DSA in Java
 
+📌 Repository: **[100 Days of DSA in Java](https://github.com/ritkritig/your-repo-name)**
+
+Documenting my journey of solving Data Structures & Algorithms problems daily in Java.
+
+---
 ### 🛒 FreshCart
 
 A responsive grocery delivery web application developed using React.
+
+🔗 **Repository:** https://github.com/ritkritig/react-grocery-app
+
 
 **Key Features**
 - Product browsing
@@ -86,11 +98,11 @@ A responsive grocery delivery web application developed using React.
 
 ## 📚 Currently Learning
 
-- ⚛️ Advanced React
-- 🌐 Backend Development with Node.js & Express
-- 📦 MongoDB
-- 🧩 Data Structures & Algorithms
-- 🏗️ System Design Fundamentals
+- Advanced React & State Management
+- Backend Development with Express.js
+- MongoDB & Database Design
+- Data Structures & Algorithms in Java
+- System Design Fundamentals
 
 ---
 
@@ -107,9 +119,9 @@ A responsive grocery delivery web application developed using React.
 
 📧 **Email:** ritkritigoyal@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/ritkriti-goyal-b980b8307
+💼 LinkedIn: [Ritkriti Goyal](https://linkedin.com/in/ritkriti-goyal-b980b8307)
 
-🐙 **GitHub:** https://github.com/ritkritig
+🐙 GitHub: [ritkritig](https://github.com/ritkritig)
 
 ---
 
