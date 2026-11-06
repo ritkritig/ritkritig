@@ -1,22 +1,29 @@
-<h1 align="center">Hi! I'm Ritkriti Goyal</h1>
 
-<h3 align="center">Aspiring Full Stack Developer | AI Enthusiast | B.Tech CSE Student @ UPES</h3>
+<h1 align="center">Hi, I'm Ritkriti Goyal 👋</h1>
+
+<h3 align="center">Computer Science Undergraduate | Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-Passionate about building modern web applications and solving real-world problems through technology.
-Currently exploring the MERN Stack, Artificial Intelligence, and Data Structures & Algorithms.
+  Building practical applications, exploring AI/ML, and solving problems through code.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ritkriti-goyal-b980b8307">LinkedIn</a> •
+  <a href="https://github.com/ritkritig">GitHub</a> •
+  <a href="mailto:ritkritigoyal@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science Engineering at **UPES** (2024–2028)
-- 💻 Interested in **Full Stack Development**, **Artificial Intelligence**, and **Software Engineering**
-- 🌱 Currently learning **MERN Stack**, **DSA**, and **System Design**
-- 🚀 I enjoy building practical applications that create meaningful user experiences
-- 🤝 Always open to learning, collaborating, and contributing to exciting projects
-- 💯 Currently completing a **100 Days of DSA in Java** challenge with daily GitHub commits.
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at **UPES** (2024–2028).
+- 💻 Interested in Full Stack Development, Artificial Intelligence, and Software Engineering.
+- 🤖 Exploring Machine Learning, data-driven applications, and AI-powered solutions.
+- 🧩 Practising Data Structures & Algorithms in Java.
+- 🏆 National Semifinalist at **Flipkart GRID 8.0 – Software Development Track**.
+- ✍️ Editor-in-Chief at UPES-CSI.
+- 🚀 I enjoy turning ideas into functional applications and continuously learning new technologies.
 
 ---
 
@@ -24,105 +31,115 @@ Currently exploring the MERN Stack, Artificial Intelligence, and Data Structures
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
 </p>
 
-### Frontend
+### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### Backend
+### Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql" />
 </p>
 
-### Tools & Technologies
+### Data Science & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Libraries:** NumPy, Pandas, SciPy, Scikit-learn, Matplotlib
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 BrainSpace
-An AI-powered productivity workspace featuring secure authentication, rich text note-taking, folder organization, and AI-driven note summarization.
+### 🧠 MaternaAI – Maternal Healthcare Accessibility & Predictive Analytics
 
-🔗 **Repository:** https://github.com/ritkritig/BrainSpace
+A research-oriented platform exploring maternal healthcare accessibility and regional disparities through data analytics and geospatial visualizations.
 
-**Key Features**
-- Secure JWT Authentication
-- Rich Text Note Editor
-- Folder-based Organization
-- AI-powered Note Summarization
-- Responsive Modern UI
+- Built interactive dashboards and geospatial visualizations.
+- Implemented K-Means clustering, PCA, Random Forest, and Linear Regression.
+- Developed a configurable healthcare accessibility index with sensitivity analysis.
+- Added CSV upload validation and missing-value handling.
 
-**Tech Stack**
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-- Google Gemini API
+**Tech Stack:** React, TypeScript, Python, FastAPI, Pandas, Scikit-learn, Leaflet
 
----
-### 💯 100 Days of DSA in Java
+🔗 [GitHub Repository](https://github.com/ritkritig/MaternaAI)
 
-📌 Repository: **[100 Days of DSA in Java](https://github.com/ritkritig/your-repo-name)**
+### 🎨 Kolam Studio – Interactive Procedural Art & Learning Platform
 
-Documenting my journey of solving Data Structures & Algorithms problems daily in Java.
+An interactive platform for generating and exploring traditional Sikku Kolam patterns using procedural techniques.
 
----
-### 🛒 FreshCart
+- Generated customizable patterns with grid configurations and symmetry.
+- Implemented Canvas 2D rendering, Bézier curves, and stroke animations.
+- Added interactive learning modules, tracing challenges, and graph theory visualizations.
+- Enabled PNG export of generated designs.
 
-A responsive grocery delivery web application developed using React.
+**Tech Stack:** TypeScript, HTML5 Canvas, GSAP, CSS
 
-🔗 **Repository:** https://github.com/ritkritig/react-grocery-app
+🔗 [GitHub Repository](https://github.com/ritkritig/Rekhakriti)
 
+### 🧠 BrainSpace – AI Productivity Workspace
 
-**Key Features**
-- Product browsing
-- Category filtering
-- Shopping cart
-- Responsive design
-- Local storage support
+A MERN-based productivity application combining note management, rich-text editing, and AI-powered summarization.
 
-**Tech Stack**
-- React
-- JavaScript
-- CSS
-- HTML
+- Developed secure authentication using JWT.
+- Built rich-text note editing and folder-based organization.
+- Integrated Google Gemini API for AI-powered note summarization.
+- Created responsive interfaces with React and Tailwind CSS.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Gemini API
+
+🔗 [GitHub Repository](https://github.com/ritkritig/BrainSpace)
 
 ---
 
-## 📚 Currently Learning
+## 💯 100 Days of DSA in Java
 
-- Advanced React & State Management
-- Backend Development with Express.js
-- MongoDB & Database Design
-- Data Structures & Algorithms in Java
+Documenting my journey of practising Data Structures and Algorithms through daily problem-solving in Java.
+
+🔗 [100 Days of DSA in Java](https://github.com/ritkritig/100DaysDSAinJavaChallenge)
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced React and Backend Development
+- Machine Learning and Data Science
+- Data Structures & Algorithms
 - System Design Fundamentals
+- Building scalable full-stack applications
 
 ---
 
 ## 🎯 Interests
 
-- 💻 Full Stack Development
-- 🤖 Artificial Intelligence
-- 🌍 Open Source
-- 🎭 Theatre & Creative Storytelling
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Problem Solving
+- Open Source
+- Theatre & Creative Storytelling
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
-📧 **Email:** ritkritigoyal@gmail.com
-
-💼 LinkedIn: [Ritkriti Goyal](https://linkedin.com/in/ritkriti-goyal-b980b8307)
-
-🐙 GitHub: [ritkritig](https://github.com/ritkritig)
+<p>
+  <a href="mailto:ritkritigoyal@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/ritkriti-goyal-b980b8307">LinkedIn</a> •
+  <a href="https://github.com/ritkritig">GitHub</a> •
+  <a href="https://leetcode.com/u/ritkriti/">LeetCode</a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+</p>
